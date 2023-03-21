@@ -6,3 +6,5 @@ Eg. Let A = [1, 2, 6, 3, 2, 1]
 The array that maximizes A is A' = [2, 3, 1, 6, 1, 2]
 
 A' has 4 indices where A[i] < A'[i]
+
+The solution here is a first draft.
